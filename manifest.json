@@ -1,0 +1,8 @@
+{
+    "name": "Navigation Buttons",
+    "description": "Adds back/foward buttons to the Discord title bar",
+    "author": "Jill \"oatmealine\" Monoids",
+    "version": "1.0.0",
+    "license": "GPL-3.0",
+    "permissions": []
+  }
